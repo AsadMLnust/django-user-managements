@@ -19,7 +19,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY', 'your-default-secret-key')
 DEBUG = False
 
 ALLOWED_HOSTS = [
-    'https://django-user-managements.onrender.com',
+    'django-user-managements.onrender.com',
     'localhost',
     '127.0.0.1'
 ]
