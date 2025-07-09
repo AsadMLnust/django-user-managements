@@ -1,0 +1,7 @@
+django
+crewai
+langchain-groq
+python-dotenv
+markupsafe
+gunicorn
+whitenoise
